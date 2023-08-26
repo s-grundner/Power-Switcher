@@ -17,3 +17,8 @@ build
 sdkconfig.*
 c_cpp_properties.json
 .fake
+
+# Kicad
+*.kicad_prl
+fp-info-cache
+manufacturing/*/*-backups/*
