@@ -1,4 +1,4 @@
-# PUSB C Power Switcher
+# USB C Power Switcher
 
 Device to digitally request power from USB C PD capable supplies
 
