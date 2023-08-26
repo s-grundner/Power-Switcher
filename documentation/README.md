@@ -1,3 +1,3 @@
 # Documentation
 
-![BSB](Blockdiagram.drawio)
+![BSB](BSB.png)
