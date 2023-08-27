@@ -1,4 +1,4 @@
-21858909222208177
+21863988364152106
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83482,6 +83482,13 @@ Connector
 49
 49
 SamacSys_Parts
+QFN50P400X400X60-25N-D
+24-pin QFN Package Outline
+Integrated Circuit
+0
+25
+25
+SamacSys_Parts
 QFN50P500X500X100-33N-D
 RHB0032E
 Integrated Circuit
@@ -83516,6 +83523,13 @@ Connector
 0
 3
 3
+SamacSys_Parts
+SOIC127P600X175-8N
+SO-8
+MOSFET (P-Channel)
+0
+8
+8
 SamacSys_Parts
 SOP65P210X110-6N
 NC7WZ17P6X
@@ -88815,6 +88829,13 @@ THT Terminal Block WAGO 804-324 45Degree pitch 7.5mm size 179x15mm^2 drill 1.2mm
 0
 48
 24
+TerminalBlock_WAGO
+TerminalBlock_WAGO_2604-1102
+
+2604-1102 
+0
+4
+4
 TerminalBlock_Wuerth
 Wuerth_REDCUBE-THR_WP-THRBU_74650073_THR
 REDCUBE THR with internal through-hole thread WP-THRBU (https://www.we-online.de/katalog/datasheet/74650073.pdf)
