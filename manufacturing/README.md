@@ -1,8 +1,3 @@
-> [!CHECK]  
-> Highlights information that users should take into account, even when skimming.
+# PCB
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+![image](https://github.com/s-grundner/Power-Switcher/assets/55248627/74915695-930e-4d29-961d-ecd36b8d3556)
